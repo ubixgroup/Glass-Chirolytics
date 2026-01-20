@@ -1,6 +1,6 @@
 # Glass Chirolytics
 
-Please use a Chromiumium-based browser (performance/compatibility).
+Please use a Chromium-based browser (performance/compatibility), preferably Google Chrome.
 
 ## Getting Started
 
