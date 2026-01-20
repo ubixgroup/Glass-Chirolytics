@@ -10,8 +10,6 @@ Please use a Chromiumium-based browser (performance/compatibility).
 npm install
 ```
 
-Generating certificates and starting the WebSocket server are only required if you want multiple/remote users. Otherwise, starting the dev server is all you need.
-
 ### Generate the locally-trusted certificates (requires mkcert and this script has Unix-specific commands)
 
 ```sh
