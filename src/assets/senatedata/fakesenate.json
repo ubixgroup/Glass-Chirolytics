@@ -1,0 +1,1002 @@
+[
+  {
+    "congress": 117,
+    "icpsr": 42102,
+    "state_icpsr": 41,
+    "state_abbrev": "AL",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Harper, Evelyn",
+    "ideoscore": 0.81
+  },
+  {
+    "congress": 117,
+    "icpsr": 94659,
+    "state_icpsr": 41,
+    "state_abbrev": "AL",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Jones, Oliver",
+    "ideoscore": 0.58
+  },
+  {
+    "congress": 117,
+    "icpsr": 40300,
+    "state_icpsr": 81,
+    "state_abbrev": "AK",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Williams, Sophia",
+    "ideoscore": 0.47
+  },
+  {
+    "congress": 117,
+    "icpsr": 41500,
+    "state_icpsr": 81,
+    "state_abbrev": "AK",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Miller, Benjamin",
+    "ideoscore": 0.65
+  },
+  {
+    "congress": 117,
+    "icpsr": 21300,
+    "state_icpsr": 61,
+    "state_abbrev": "AZ",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Davis, Chloe",
+    "ideoscore": 0.5
+  },
+  {
+    "congress": 117,
+    "icpsr": 41905,
+    "state_icpsr": 61,
+    "state_abbrev": "AZ",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "Garcia, Noah",
+    "ideoscore": 0.4
+  },
+  {
+    "congress": 117,
+    "icpsr": 20101,
+    "state_icpsr": 42,
+    "state_abbrev": "AR",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Rodriguez, Mia",
+    "ideoscore": 0.77
+  },
+  {
+    "congress": 117,
+    "icpsr": 21301,
+    "state_icpsr": 42,
+    "state_abbrev": "AR",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Martinez, Liam",
+    "ideoscore": 0.88
+  },
+  {
+    "congress": 117,
+    "icpsr": 42104,
+    "state_icpsr": 71,
+    "state_abbrev": "CA",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "Hernandez, Ava",
+    "ideoscore": 0.02
+  },
+  {
+    "congress": 117,
+    "icpsr": 49300,
+    "state_icpsr": 71,
+    "state_abbrev": "CA",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Anderson, Ethan",
+    "ideoscore": 0.15
+  },
+  {
+    "congress": 117,
+    "icpsr": 40910,
+    "state_icpsr": 62,
+    "state_abbrev": "CO",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "Thomas, Isabella",
+    "ideoscore": 0.25
+  },
+  {
+    "congress": 117,
+    "icpsr": 42101,
+    "state_icpsr": 62,
+    "state_abbrev": "CO",
+    "senclass": 2,
+    "party_code": 100,
+    "bioname": "Jackson, James",
+    "ideoscore": 0.34
+  },
+  {
+    "congress": 117,
+    "icpsr": 20707,
+    "state_icpsr": 1,
+    "state_abbrev": "CT",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "White, Olivia",
+    "ideoscore": 0.15
+  },
+  {
+    "congress": 117,
+    "icpsr": 41101,
+    "state_icpsr": 1,
+    "state_abbrev": "CT",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "Harris, Logan",
+    "ideoscore": 0.03
+  },
+  {
+    "congress": 117,
+    "icpsr": 15015,
+    "state_icpsr": 11,
+    "state_abbrev": "DE",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Clark, Ella",
+    "ideoscore": 0.31
+  },
+  {
+    "congress": 117,
+    "icpsr": 40916,
+    "state_icpsr": 11,
+    "state_abbrev": "DE",
+    "senclass": 2,
+    "party_code": 100,
+    "bioname": "Lewis, Mason",
+    "ideoscore": 0.34
+  },
+  {
+    "congress": 117,
+    "icpsr": 41102,
+    "state_icpsr": 43,
+    "state_abbrev": "FL",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Walker, Grace",
+    "ideoscore": 0.83
+  },
+  {
+    "congress": 117,
+    "icpsr": 41903,
+    "state_icpsr": 43,
+    "state_abbrev": "FL",
+    "senclass": 1,
+    "party_code": 200,
+    "bioname": "Hall, Elijah",
+    "ideoscore": 1.0
+  },
+  {
+    "congress": 117,
+    "icpsr": 42103,
+    "state_icpsr": 44,
+    "state_abbrev": "GA",
+    "senclass": 2,
+    "party_code": 100,
+    "bioname": "Young, Scarlett",
+    "ideoscore": 0.3
+  },
+  {
+    "congress": 117,
+    "icpsr": 42105,
+    "state_icpsr": 44,
+    "state_abbrev": "GA",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "Allen, Michael",
+    "ideoscore": 0.46
+  },
+  {
+    "congress": 117,
+    "icpsr": 20713,
+    "state_icpsr": 82,
+    "state_abbrev": "HI",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Wright, Amelia",
+    "ideoscore": 0.07
+  },
+  {
+    "congress": 117,
+    "icpsr": 41112,
+    "state_icpsr": 82,
+    "state_abbrev": "HI",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "King, Leo",
+    "ideoscore": 0.21
+  },
+  {
+    "congress": 117,
+    "icpsr": 29345,
+    "state_icpsr": 63,
+    "state_abbrev": "ID",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Baker, Lily",
+    "ideoscore": 0.82
+  },
+  {
+    "congress": 117,
+    "icpsr": 40902,
+    "state_icpsr": 63,
+    "state_abbrev": "ID",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Green, Henry",
+    "ideoscore": 0.83
+  },
+  {
+    "congress": 117,
+    "icpsr": 15021,
+    "state_icpsr": 21,
+    "state_abbrev": "IL",
+    "senclass": 2,
+    "party_code": 100,
+    "bioname": "Adams, Zoey",
+    "ideoscore": 0.09
+  },
+  {
+    "congress": 117,
+    "icpsr": 21325,
+    "state_icpsr": 21,
+    "state_abbrev": "IL",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "Nelson, Jack",
+    "ideoscore": 0.09
+  },
+  {
+    "congress": 117,
+    "icpsr": 21133,
+    "state_icpsr": 22,
+    "state_abbrev": "IN",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Carter, Stella",
+    "ideoscore": 0.68
+  },
+  {
+    "congress": 117,
+    "icpsr": 41900,
+    "state_icpsr": 22,
+    "state_abbrev": "IN",
+    "senclass": 1,
+    "party_code": 200,
+    "bioname": "Mitchell, Caleb",
+    "ideoscore": 0.98
+  },
+  {
+    "congress": 117,
+    "icpsr": 14226,
+    "state_icpsr": 31,
+    "state_abbrev": "IA",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Phillips, Hazel",
+    "ideoscore": 0.67
+  },
+  {
+    "congress": 117,
+    "icpsr": 41502,
+    "state_icpsr": 31,
+    "state_abbrev": "IA",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Evans, Dylan",
+    "ideoscore": 0.83
+  },
+  {
+    "congress": 117,
+    "icpsr": 21734,
+    "state_icpsr": 32,
+    "state_abbrev": "KS",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Turner, Victoria",
+    "ideoscore": 0.88
+  },
+  {
+    "congress": 117,
+    "icpsr": 29722,
+    "state_icpsr": 32,
+    "state_abbrev": "KS",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Parker, Sam",
+    "ideoscore": 0.72
+  },
+  {
+    "congress": 117,
+    "icpsr": 14921,
+    "state_icpsr": 51,
+    "state_abbrev": "KY",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Collins, Stella",
+    "ideoscore": 0.6
+  },
+  {
+    "congress": 117,
+    "icpsr": 41104,
+    "state_icpsr": 51,
+    "state_abbrev": "KY",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Stewart, Finn",
+    "ideoscore": 0.68
+  },
+  {
+    "congress": 117,
+    "icpsr": 20919,
+    "state_icpsr": 45,
+    "state_abbrev": "LA",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Morris, Aubrey",
+    "ideoscore": 0.68
+  },
+  {
+    "congress": 117,
+    "icpsr": 41703,
+    "state_icpsr": 45,
+    "state_abbrev": "LA",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Edwards, Carter",
+    "ideoscore": 0.79
+  },
+  {
+    "congress": 117,
+    "icpsr": 41300,
+    "state_icpsr": 2,
+    "state_abbrev": "ME",
+    "senclass": 1,
+    "party_code": 328,
+    "bioname": "Foster, Madison",
+    "ideoscore": 0.35
+  },
+  {
+    "congress": 117,
+    "icpsr": 49703,
+    "state_icpsr": 2,
+    "state_abbrev": "ME",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Bell, Nolan",
+    "ideoscore": 0.45
+  },
+  {
+    "congress": 117,
+    "icpsr": 15408,
+    "state_icpsr": 52,
+    "state_abbrev": "MD",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Ramirez, Sofia",
+    "ideoscore": 0.2
+  },
+  {
+    "congress": 117,
+    "icpsr": 20330,
+    "state_icpsr": 52,
+    "state_abbrev": "MD",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "Perez, Leo",
+    "ideoscore": 0.12
+  },
+  {
+    "congress": 117,
+    "icpsr": 14435,
+    "state_icpsr": 3,
+    "state_abbrev": "MA",
+    "senclass": 2,
+    "party_code": 100,
+    "bioname": "Scott, Maya",
+    "ideoscore": 0.01
+  },
+  {
+    "congress": 117,
+    "icpsr": 41301,
+    "state_icpsr": 3,
+    "state_abbrev": "MA",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Hughes, Alex",
+    "ideoscore": 0.06
+  },
+  {
+    "congress": 117,
+    "icpsr": 20923,
+    "state_icpsr": 23,
+    "state_abbrev": "MI",
+    "senclass": 2,
+    "party_code": 100,
+    "bioname": "Sanchez, Evelyn",
+    "ideoscore": 0.36
+  },
+  {
+    "congress": 117,
+    "icpsr": 29732,
+    "state_icpsr": 23,
+    "state_abbrev": "MI",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Ward, Lucas",
+    "ideoscore": 0.22
+  },
+  {
+    "congress": 117,
+    "icpsr": 40700,
+    "state_icpsr": 33,
+    "state_abbrev": "MN",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Cooper, Addison",
+    "ideoscore": 0.13
+  },
+  {
+    "congress": 117,
+    "icpsr": 41706,
+    "state_icpsr": 33,
+    "state_abbrev": "MN",
+    "senclass": 2,
+    "party_code": 100,
+    "bioname": "Ross, Julian",
+    "ideoscore": 0.08
+  },
+  {
+    "congress": 117,
+    "icpsr": 29534,
+    "state_icpsr": 46,
+    "state_abbrev": "MS",
+    "senclass": 1,
+    "party_code": 200,
+    "bioname": "Bennett, Charlotte",
+    "ideoscore": 0.76
+  },
+  {
+    "congress": 117,
+    "icpsr": 41707,
+    "state_icpsr": 46,
+    "state_abbrev": "MS",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Morgan, Isaac",
+    "ideoscore": 0.87
+  },
+  {
+    "congress": 117,
+    "icpsr": 29735,
+    "state_icpsr": 34,
+    "state_abbrev": "MO",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Fisher, Scarlett",
+    "ideoscore": 0.58
+  },
+  {
+    "congress": 117,
+    "icpsr": 41901,
+    "state_icpsr": 34,
+    "state_abbrev": "MO",
+    "senclass": 1,
+    "party_code": 200,
+    "bioname": "Reed, Caleb",
+    "ideoscore": 0.86
+  },
+  {
+    "congress": 117,
+    "icpsr": 21338,
+    "state_icpsr": 64,
+    "state_abbrev": "MT",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Brooks, Hannah",
+    "ideoscore": 0.86
+  },
+  {
+    "congress": 117,
+    "icpsr": 40702,
+    "state_icpsr": 64,
+    "state_abbrev": "MT",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Perry, Dylan",
+    "ideoscore": 0.38
+  },
+  {
+    "congress": 117,
+    "icpsr": 41302,
+    "state_icpsr": 35,
+    "state_abbrev": "NE",
+    "senclass": 1,
+    "party_code": 200,
+    "bioname": "Hunter, Nora",
+    "ideoscore": 0.69
+  },
+  {
+    "congress": 117,
+    "icpsr": 41503,
+    "state_icpsr": 35,
+    "state_abbrev": "NE",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Gordon, Leo",
+    "ideoscore": 0.68
+  },
+  {
+    "congress": 117,
+    "icpsr": 21743,
+    "state_icpsr": 65,
+    "state_abbrev": "NV",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Hayes, Zoe",
+    "ideoscore": 0.31
+  },
+  {
+    "congress": 117,
+    "icpsr": 41700,
+    "state_icpsr": 65,
+    "state_abbrev": "NV",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "Barnes, Wyatt",
+    "ideoscore": 0.24
+  },
+  {
+    "congress": 117,
+    "icpsr": 40906,
+    "state_icpsr": 4,
+    "state_abbrev": "NH",
+    "senclass": 2,
+    "party_code": 100,
+    "bioname": "Cox, Ruby",
+    "ideoscore": 0.29
+  },
+  {
+    "congress": 117,
+    "icpsr": 41702,
+    "state_icpsr": 4,
+    "state_abbrev": "NH",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "Bellamy, Owen",
+    "ideoscore": 0.44
+  },
+  {
+    "congress": 117,
+    "icpsr": 29373,
+    "state_icpsr": 12,
+    "state_abbrev": "NJ",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Cole, Isabella",
+    "ideoscore": 0.19
+  },
+  {
+    "congress": 117,
+    "icpsr": 41308,
+    "state_icpsr": 12,
+    "state_abbrev": "NJ",
+    "senclass": 2,
+    "party_code": 100,
+    "bioname": "Grant, Alexander",
+    "ideoscore": 0.05
+  },
+  {
+    "congress": 117,
+    "icpsr": 20930,
+    "state_icpsr": 66,
+    "state_abbrev": "NM",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Ross, Chloe",
+    "ideoscore": 0.2
+  },
+  {
+    "congress": 117,
+    "icpsr": 20932,
+    "state_icpsr": 66,
+    "state_abbrev": "NM",
+    "senclass": 2,
+    "party_code": 100,
+    "bioname": "Mitchell, Elias",
+    "ideoscore": 0.17
+  },
+  {
+    "congress": 117,
+    "icpsr": 14858,
+    "state_icpsr": 13,
+    "state_abbrev": "NY",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "Peterson, Sofia",
+    "ideoscore": 0.24
+  },
+  {
+    "congress": 117,
+    "icpsr": 20735,
+    "state_icpsr": 13,
+    "state_abbrev": "NY",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Coleman, Noah",
+    "ideoscore": 0.12
+  },
+  {
+    "congress": 117,
+    "icpsr": 29548,
+    "state_icpsr": 47,
+    "state_abbrev": "NC",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Walker, Evelyn",
+    "ideoscore": 0.61
+  },
+  {
+    "congress": 117,
+    "icpsr": 41504,
+    "state_icpsr": 47,
+    "state_abbrev": "NC",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Turner, Jackson",
+    "ideoscore": 0.82
+  },
+  {
+    "congress": 117,
+    "icpsr": 21350,
+    "state_icpsr": 36,
+    "state_abbrev": "ND",
+    "senclass": 1,
+    "party_code": 200,
+    "bioname": "Ward, Mia",
+    "ideoscore": 0.91
+  },
+  {
+    "congress": 117,
+    "icpsr": 41107,
+    "state_icpsr": 36,
+    "state_abbrev": "ND",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Harris, Daniel",
+    "ideoscore": 0.82
+  },
+  {
+    "congress": 117,
+    "icpsr": 29386,
+    "state_icpsr": 24,
+    "state_abbrev": "OH",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Brooks, Chloe",
+    "ideoscore": 0.55
+  },
+  {
+    "congress": 117,
+    "icpsr": 29389,
+    "state_icpsr": 24,
+    "state_abbrev": "OH",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Gray, Julian",
+    "ideoscore": 0.09
+  },
+  {
+    "congress": 117,
+    "icpsr": 15424,
+    "state_icpsr": 53,
+    "state_abbrev": "OK",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Foster, Liam",
+    "ideoscore": 0.88
+  },
+  {
+    "congress": 117,
+    "icpsr": 21166,
+    "state_icpsr": 53,
+    "state_abbrev": "OK",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Campbell, Olivia",
+    "ideoscore": 0.9
+  },
+  {
+    "congress": 117,
+    "icpsr": 14871,
+    "state_icpsr": 72,
+    "state_abbrev": "OR",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "Reed, Ethan",
+    "ideoscore": 0.06
+  },
+  {
+    "congress": 117,
+    "icpsr": 40908,
+    "state_icpsr": 72,
+    "state_abbrev": "OR",
+    "senclass": 2,
+    "party_code": 100,
+    "bioname": "Collins, Ava",
+    "ideoscore": 0.04
+  },
+  {
+    "congress": 117,
+    "icpsr": 29935,
+    "state_icpsr": 14,
+    "state_abbrev": "PA",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Parker, Elijah",
+    "ideoscore": 0.61
+  },
+  {
+    "congress": 117,
+    "icpsr": 40703,
+    "state_icpsr": 14,
+    "state_abbrev": "PA",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Walker, Chloe",
+    "ideoscore": 0.17
+  },
+  {
+    "congress": 117,
+    "icpsr": 29142,
+    "state_icpsr": 5,
+    "state_abbrev": "RI",
+    "senclass": 2,
+    "party_code": 100,
+    "bioname": "Gray, Jackson",
+    "ideoscore": 0.15
+  },
+  {
+    "congress": 117,
+    "icpsr": 40704,
+    "state_icpsr": 5,
+    "state_abbrev": "RI",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Cooper, Maya",
+    "ideoscore": 0.12
+  },
+  {
+    "congress": 117,
+    "icpsr": 21173,
+    "state_icpsr": 48,
+    "state_abbrev": "SC",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Bell, Mason",
+    "ideoscore": 0.78
+  },
+  {
+    "congress": 117,
+    "icpsr": 29566,
+    "state_icpsr": 48,
+    "state_abbrev": "SC",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Morgan, Ava",
+    "ideoscore": 0.62
+  },
+  {
+    "congress": 117,
+    "icpsr": 29754,
+    "state_icpsr": 37,
+    "state_abbrev": "SD",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Foster, Ethan",
+    "ideoscore": 0.8
+  },
+  {
+    "congress": 117,
+    "icpsr": 41505,
+    "state_icpsr": 37,
+    "state_abbrev": "SD",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Gray, Sophia",
+    "ideoscore": 0.78
+  },
+  {
+    "congress": 117,
+    "icpsr": 20351,
+    "state_icpsr": 54,
+    "state_abbrev": "TN",
+    "senclass": 1,
+    "party_code": 200,
+    "bioname": "Campbell, Lucas",
+    "ideoscore": 0.93
+  },
+  {
+    "congress": 117,
+    "icpsr": 42100,
+    "state_icpsr": 54,
+    "state_abbrev": "TN",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Hughes, Hannah",
+    "ideoscore": 0.86
+  },
+  {
+    "congress": 117,
+    "icpsr": 40305,
+    "state_icpsr": 49,
+    "state_abbrev": "TX",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Peterson, Caleb",
+    "ideoscore": 0.77
+  },
+  {
+    "congress": 117,
+    "icpsr": 41304,
+    "state_icpsr": 49,
+    "state_abbrev": "TX",
+    "senclass": 1,
+    "party_code": 200,
+    "bioname": "Ward, Mia",
+    "ideoscore": 0.94
+  },
+  {
+    "congress": 117,
+    "icpsr": 41110,
+    "state_icpsr": 67,
+    "state_abbrev": "UT",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Anderson, Ethan",
+    "ideoscore": 0.75
+  },
+  {
+    "congress": 117,
+    "icpsr": 41902,
+    "state_icpsr": 67,
+    "state_abbrev": "UT",
+    "senclass": 1,
+    "party_code": 200,
+    "bioname": "Collins, Isabella",
+    "ideoscore": 0.6
+  },
+  {
+    "congress": 117,
+    "icpsr": 14307,
+    "state_icpsr": 6,
+    "state_abbrev": "VT",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "Harris, Daniel",
+    "ideoscore": 0.14
+  },
+  {
+    "congress": 117,
+    "icpsr": 29147,
+    "state_icpsr": 6,
+    "state_abbrev": "VT",
+    "senclass": 1,
+    "party_code": 328,
+    "bioname": "Young, Alexander",
+    "ideoscore": 0.0
+  },
+  {
+    "congress": 117,
+    "icpsr": 40909,
+    "state_icpsr": 40,
+    "state_abbrev": "VA",
+    "senclass": 2,
+    "party_code": 100,
+    "bioname": "Hall, Evelyn",
+    "ideoscore": 0.33
+  },
+  {
+    "congress": 117,
+    "icpsr": 41305,
+    "state_icpsr": 40,
+    "state_abbrev": "VA",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Clark, Michael",
+    "ideoscore": 0.2
+  },
+  {
+    "congress": 117,
+    "icpsr": 39310,
+    "state_icpsr": 73,
+    "state_abbrev": "WA",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Miller, Sophia",
+    "ideoscore": 0.22
+  },
+  {
+    "congress": 117,
+    "icpsr": 49308,
+    "state_icpsr": 73,
+    "state_abbrev": "WA",
+    "senclass": 3,
+    "party_code": 100,
+    "bioname": "Davis, Benjamin",
+    "ideoscore": 0.14
+  },
+  {
+    "congress": 117,
+    "icpsr": 20146,
+    "state_icpsr": 56,
+    "state_abbrev": "WV",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Lewis, Chloe",
+    "ideoscore": 0.61
+  },
+  {
+    "congress": 117,
+    "icpsr": 40915,
+    "state_icpsr": 56,
+    "state_abbrev": "WV",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Thompson, Wyatt",
+    "ideoscore": 0.45
+  },
+  {
+    "congress": 117,
+    "icpsr": 29940,
+    "state_icpsr": 25,
+    "state_abbrev": "WI",
+    "senclass": 1,
+    "party_code": 100,
+    "bioname": "Carter, Olivia",
+    "ideoscore": 0.18
+  },
+  {
+    "congress": 117,
+    "icpsr": 41111,
+    "state_icpsr": 25,
+    "state_abbrev": "WI",
+    "senclass": 3,
+    "party_code": 200,
+    "bioname": "Phillips, Lucas",
+    "ideoscore": 0.74
+  },
+  {
+    "congress": 117,
+    "icpsr": 20953,
+    "state_icpsr": 68,
+    "state_abbrev": "WY",
+    "senclass": 1,
+    "party_code": 200,
+    "bioname": "Jackson, Stella",
+    "ideoscore": 0.89
+  },
+  {
+    "congress": 117,
+    "icpsr": 40707,
+    "state_icpsr": 68,
+    "state_abbrev": "WY",
+    "senclass": 2,
+    "party_code": 200,
+    "bioname": "Roberts, Caleb",
+    "ideoscore": 0.82
+  }
+]

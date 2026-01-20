@@ -1,0 +1,65 @@
+{
+  "title": "Travel Rendezvous Challenge",
+  "description": "Two users want to meet for a vacation. Help them find flights that work for both!",
+  "friends": {
+    "user_1": {
+      "name": "User 1",
+      "description": "lives in rome, available july 15-19, prefers lufthansa or singapore airlines, budget max $700",
+      "origin_airport": "FCO",
+      "available_dates": [
+        "2025-07-15",
+        "2025-07-16",
+        "2025-07-17",
+        "2025-07-18",
+        "2025-07-19"
+      ],
+      "preferred_airlines": [
+        "LH",
+        "SQ"
+      ],
+      "max_budget": 700
+    },
+    "user_2": {
+      "name": "User 2",
+      "description": "lives in rome, available july 17-21, prefers emirates or singapore airlines, budget max $810",
+      "origin_airport": "FCO",
+      "available_dates": [
+        "2025-07-17",
+        "2025-07-18",
+        "2025-07-19",
+        "2025-07-20",
+        "2025-07-21"
+      ],
+      "preferred_airlines": [
+        "EK",
+        "SQ"
+      ],
+      "max_budget": 810
+    }
+  },
+  "constraints": {
+    "must_arrive_same_day": true,
+    "both_must_afford": true,
+    "both_must_be_available": true,
+    "overlap_dates": [
+      "2025-07-17",
+      "2025-07-18",
+      "2025-07-19"
+    ]
+  },
+  "evaluation_criteria": {
+    "valid_solution": {
+      "same_destination": "flights must go to the same destination airport",
+      "same_date": "flights must be on the same date",
+      "within_budgets": "user_1's flight <= $700, user_2's flight <= $810",
+      "date_availability": "date must be in both users' available dates",
+      "airline_preferences": "each user must use one of their preferred airlines"
+    }
+  },
+  "hints": {
+    "overlap_dates": "look for dates when both users are available (july 17-19)",
+    "budget_consideration": "both users need to stay within their budgets",
+    "airline_preferences": "each user must use one of their preferred airlines",
+    "multiple_solutions": "there may be several valid combinations - any that meet all criteria work!"
+  }
+}

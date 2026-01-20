@@ -1,0 +1,65 @@
+{
+  "title": "Travel Rendezvous Challenge",
+  "description": "Two users want to meet for a vacation. Help them find flights that work for both!",
+  "friends": {
+    "user_1": {
+      "name": "User 1",
+      "description": "lives in toronto, available june 8-12, prefers american airlines or air canada, budget max $640",
+      "origin_airport": "YYZ",
+      "available_dates": [
+        "2025-06-08",
+        "2025-06-09",
+        "2025-06-10",
+        "2025-06-11",
+        "2025-06-12"
+      ],
+      "preferred_airlines": [
+        "AA",
+        "AC"
+      ],
+      "max_budget": 640
+    },
+    "user_2": {
+      "name": "User 2",
+      "description": "lives in toronto, available june 10-14, prefers air canada or lufthansa, budget max $770",
+      "origin_airport": "YYZ",
+      "available_dates": [
+        "2025-06-10",
+        "2025-06-11",
+        "2025-06-12",
+        "2025-06-13",
+        "2025-06-14"
+      ],
+      "preferred_airlines": [
+        "AC",
+        "LH"
+      ],
+      "max_budget": 770
+    }
+  },
+  "constraints": {
+    "must_arrive_same_day": true,
+    "both_must_afford": true,
+    "both_must_be_available": true,
+    "overlap_dates": [
+      "2025-06-10",
+      "2025-06-11",
+      "2025-06-12"
+    ]
+  },
+  "evaluation_criteria": {
+    "valid_solution": {
+      "same_destination": "flights must go to the same destination airport",
+      "same_date": "flights must be on the same date",
+      "within_budgets": "user_1's flight <= $640, user_2's flight <= $770",
+      "date_availability": "date must be in both users' available dates",
+      "airline_preferences": "each user must use one of their preferred airlines"
+    }
+  },
+  "hints": {
+    "overlap_dates": "look for dates when both users are available (june 10-12)",
+    "budget_consideration": "both users need to stay within their budgets",
+    "airline_preferences": "each user must use one of their preferred airlines",
+    "multiple_solutions": "there may be several valid combinations - any that meet all criteria work!"
+  }
+}

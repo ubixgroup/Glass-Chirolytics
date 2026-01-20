@@ -1,0 +1,1190 @@
+{
+  "analysis_summary": {
+    "total_count": 18,
+    "by_destination": {
+      "BUD": [
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 1,
+            "price": 573.73,
+            "airline": "AC",
+            "duration": 7.7
+          },
+          "user_2_flight": {
+            "id": 2,
+            "price": 613.09,
+            "airline": "AC",
+            "duration": 8.8
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 1,
+            "price": 573.73,
+            "airline": "AC",
+            "duration": 7.7
+          },
+          "user_2_flight": {
+            "id": 3,
+            "price": 368.71,
+            "airline": "LH",
+            "duration": 7.7
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 1,
+            "price": 573.73,
+            "airline": "AC",
+            "duration": 7.7
+          },
+          "user_2_flight": {
+            "id": 8,
+            "price": 653.23,
+            "airline": "AC",
+            "duration": 7.7
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 2,
+            "price": 613.09,
+            "airline": "AC",
+            "duration": 8.8
+          },
+          "user_2_flight": {
+            "id": 1,
+            "price": 573.73,
+            "airline": "AC",
+            "duration": 7.7
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 2,
+            "price": 613.09,
+            "airline": "AC",
+            "duration": 8.8
+          },
+          "user_2_flight": {
+            "id": 3,
+            "price": 368.71,
+            "airline": "LH",
+            "duration": 7.7
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 2,
+            "price": 613.09,
+            "airline": "AC",
+            "duration": 8.8
+          },
+          "user_2_flight": {
+            "id": 8,
+            "price": 653.23,
+            "airline": "AC",
+            "duration": 7.7
+          }
+        }
+      ],
+      "ZRH": [
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 17,
+            "price": 618.99,
+            "airline": "AC",
+            "duration": 9.0
+          },
+          "user_2_flight": {
+            "id": 18,
+            "price": 549.62,
+            "airline": "AC",
+            "duration": 8.6
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 17,
+            "price": 618.99,
+            "airline": "AC",
+            "duration": 9.0
+          },
+          "user_2_flight": {
+            "id": 19,
+            "price": 455.81,
+            "airline": "LH",
+            "duration": 9.0
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 17,
+            "price": 618.99,
+            "airline": "AC",
+            "duration": 9.0
+          },
+          "user_2_flight": {
+            "id": 24,
+            "price": 646.12,
+            "airline": "AC",
+            "duration": 9.0
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 18,
+            "price": 549.62,
+            "airline": "AC",
+            "duration": 8.6
+          },
+          "user_2_flight": {
+            "id": 17,
+            "price": 618.99,
+            "airline": "AC",
+            "duration": 9.0
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 18,
+            "price": 549.62,
+            "airline": "AC",
+            "duration": 8.6
+          },
+          "user_2_flight": {
+            "id": 19,
+            "price": 455.81,
+            "airline": "LH",
+            "duration": 9.0
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 18,
+            "price": 549.62,
+            "airline": "AC",
+            "duration": 8.6
+          },
+          "user_2_flight": {
+            "id": 24,
+            "price": 646.12,
+            "airline": "AC",
+            "duration": 9.0
+          }
+        }
+      ],
+      "ARN": [
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 9,
+            "price": 505.0,
+            "airline": "AC",
+            "duration": 8.1
+          },
+          "user_2_flight": {
+            "id": 10,
+            "price": 513.85,
+            "airline": "AC",
+            "duration": 7.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 9,
+            "price": 505.0,
+            "airline": "AC",
+            "duration": 8.1
+          },
+          "user_2_flight": {
+            "id": 11,
+            "price": 311.45,
+            "airline": "LH",
+            "duration": 8.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 9,
+            "price": 505.0,
+            "airline": "AC",
+            "duration": 8.1
+          },
+          "user_2_flight": {
+            "id": 16,
+            "price": 646.24,
+            "airline": "AC",
+            "duration": 8.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 10,
+            "price": 513.85,
+            "airline": "AC",
+            "duration": 7.1
+          },
+          "user_2_flight": {
+            "id": 9,
+            "price": 505.0,
+            "airline": "AC",
+            "duration": 8.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 10,
+            "price": 513.85,
+            "airline": "AC",
+            "duration": 7.1
+          },
+          "user_2_flight": {
+            "id": 11,
+            "price": 311.45,
+            "airline": "LH",
+            "duration": 8.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 10,
+            "price": 513.85,
+            "airline": "AC",
+            "duration": 7.1
+          },
+          "user_2_flight": {
+            "id": 16,
+            "price": 646.24,
+            "airline": "AC",
+            "duration": 8.1
+          }
+        }
+      ]
+    },
+    "by_date": {
+      "2025-06-11": [
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 1,
+            "price": 573.73,
+            "airline": "AC",
+            "duration": 7.7
+          },
+          "user_2_flight": {
+            "id": 2,
+            "price": 613.09,
+            "airline": "AC",
+            "duration": 8.8
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 1,
+            "price": 573.73,
+            "airline": "AC",
+            "duration": 7.7
+          },
+          "user_2_flight": {
+            "id": 3,
+            "price": 368.71,
+            "airline": "LH",
+            "duration": 7.7
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 1,
+            "price": 573.73,
+            "airline": "AC",
+            "duration": 7.7
+          },
+          "user_2_flight": {
+            "id": 8,
+            "price": 653.23,
+            "airline": "AC",
+            "duration": 7.7
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 2,
+            "price": 613.09,
+            "airline": "AC",
+            "duration": 8.8
+          },
+          "user_2_flight": {
+            "id": 1,
+            "price": 573.73,
+            "airline": "AC",
+            "duration": 7.7
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 2,
+            "price": 613.09,
+            "airline": "AC",
+            "duration": 8.8
+          },
+          "user_2_flight": {
+            "id": 3,
+            "price": 368.71,
+            "airline": "LH",
+            "duration": 7.7
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 2,
+            "price": 613.09,
+            "airline": "AC",
+            "duration": 8.8
+          },
+          "user_2_flight": {
+            "id": 8,
+            "price": 653.23,
+            "airline": "AC",
+            "duration": 7.7
+          }
+        }
+      ],
+      "2025-06-12": [
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 17,
+            "price": 618.99,
+            "airline": "AC",
+            "duration": 9.0
+          },
+          "user_2_flight": {
+            "id": 18,
+            "price": 549.62,
+            "airline": "AC",
+            "duration": 8.6
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 17,
+            "price": 618.99,
+            "airline": "AC",
+            "duration": 9.0
+          },
+          "user_2_flight": {
+            "id": 19,
+            "price": 455.81,
+            "airline": "LH",
+            "duration": 9.0
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 17,
+            "price": 618.99,
+            "airline": "AC",
+            "duration": 9.0
+          },
+          "user_2_flight": {
+            "id": 24,
+            "price": 646.12,
+            "airline": "AC",
+            "duration": 9.0
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 18,
+            "price": 549.62,
+            "airline": "AC",
+            "duration": 8.6
+          },
+          "user_2_flight": {
+            "id": 17,
+            "price": 618.99,
+            "airline": "AC",
+            "duration": 9.0
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 18,
+            "price": 549.62,
+            "airline": "AC",
+            "duration": 8.6
+          },
+          "user_2_flight": {
+            "id": 19,
+            "price": 455.81,
+            "airline": "LH",
+            "duration": 9.0
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 18,
+            "price": 549.62,
+            "airline": "AC",
+            "duration": 8.6
+          },
+          "user_2_flight": {
+            "id": 24,
+            "price": 646.12,
+            "airline": "AC",
+            "duration": 9.0
+          }
+        }
+      ],
+      "2025-06-10": [
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 9,
+            "price": 505.0,
+            "airline": "AC",
+            "duration": 8.1
+          },
+          "user_2_flight": {
+            "id": 10,
+            "price": 513.85,
+            "airline": "AC",
+            "duration": 7.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 9,
+            "price": 505.0,
+            "airline": "AC",
+            "duration": 8.1
+          },
+          "user_2_flight": {
+            "id": 11,
+            "price": 311.45,
+            "airline": "LH",
+            "duration": 8.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 9,
+            "price": 505.0,
+            "airline": "AC",
+            "duration": 8.1
+          },
+          "user_2_flight": {
+            "id": 16,
+            "price": 646.24,
+            "airline": "AC",
+            "duration": 8.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 10,
+            "price": 513.85,
+            "airline": "AC",
+            "duration": 7.1
+          },
+          "user_2_flight": {
+            "id": 9,
+            "price": 505.0,
+            "airline": "AC",
+            "duration": 8.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 10,
+            "price": 513.85,
+            "airline": "AC",
+            "duration": 7.1
+          },
+          "user_2_flight": {
+            "id": 11,
+            "price": 311.45,
+            "airline": "LH",
+            "duration": 8.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 10,
+            "price": 513.85,
+            "airline": "AC",
+            "duration": 7.1
+          },
+          "user_2_flight": {
+            "id": 16,
+            "price": 646.24,
+            "airline": "AC",
+            "duration": 8.1
+          }
+        }
+      ]
+    },
+    "by_airline_combo": {
+      "AC-AC": [
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 1,
+            "price": 573.73,
+            "airline": "AC",
+            "duration": 7.7
+          },
+          "user_2_flight": {
+            "id": 2,
+            "price": 613.09,
+            "airline": "AC",
+            "duration": 8.8
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 1,
+            "price": 573.73,
+            "airline": "AC",
+            "duration": 7.7
+          },
+          "user_2_flight": {
+            "id": 8,
+            "price": 653.23,
+            "airline": "AC",
+            "duration": 7.7
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 2,
+            "price": 613.09,
+            "airline": "AC",
+            "duration": 8.8
+          },
+          "user_2_flight": {
+            "id": 1,
+            "price": 573.73,
+            "airline": "AC",
+            "duration": 7.7
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 2,
+            "price": 613.09,
+            "airline": "AC",
+            "duration": 8.8
+          },
+          "user_2_flight": {
+            "id": 8,
+            "price": 653.23,
+            "airline": "AC",
+            "duration": 7.7
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 17,
+            "price": 618.99,
+            "airline": "AC",
+            "duration": 9.0
+          },
+          "user_2_flight": {
+            "id": 18,
+            "price": 549.62,
+            "airline": "AC",
+            "duration": 8.6
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 17,
+            "price": 618.99,
+            "airline": "AC",
+            "duration": 9.0
+          },
+          "user_2_flight": {
+            "id": 24,
+            "price": 646.12,
+            "airline": "AC",
+            "duration": 9.0
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 18,
+            "price": 549.62,
+            "airline": "AC",
+            "duration": 8.6
+          },
+          "user_2_flight": {
+            "id": 17,
+            "price": 618.99,
+            "airline": "AC",
+            "duration": 9.0
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 18,
+            "price": 549.62,
+            "airline": "AC",
+            "duration": 8.6
+          },
+          "user_2_flight": {
+            "id": 24,
+            "price": 646.12,
+            "airline": "AC",
+            "duration": 9.0
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 9,
+            "price": 505.0,
+            "airline": "AC",
+            "duration": 8.1
+          },
+          "user_2_flight": {
+            "id": 10,
+            "price": 513.85,
+            "airline": "AC",
+            "duration": 7.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 9,
+            "price": 505.0,
+            "airline": "AC",
+            "duration": 8.1
+          },
+          "user_2_flight": {
+            "id": 16,
+            "price": 646.24,
+            "airline": "AC",
+            "duration": 8.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 10,
+            "price": 513.85,
+            "airline": "AC",
+            "duration": 7.1
+          },
+          "user_2_flight": {
+            "id": 9,
+            "price": 505.0,
+            "airline": "AC",
+            "duration": 8.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 10,
+            "price": 513.85,
+            "airline": "AC",
+            "duration": 7.1
+          },
+          "user_2_flight": {
+            "id": 16,
+            "price": 646.24,
+            "airline": "AC",
+            "duration": 8.1
+          }
+        }
+      ],
+      "AC-LH": [
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 1,
+            "price": 573.73,
+            "airline": "AC",
+            "duration": 7.7
+          },
+          "user_2_flight": {
+            "id": 3,
+            "price": 368.71,
+            "airline": "LH",
+            "duration": 7.7
+          }
+        },
+        {
+          "destination": "BUD",
+          "date": "2025-06-11",
+          "user_1_flight": {
+            "id": 2,
+            "price": 613.09,
+            "airline": "AC",
+            "duration": 8.8
+          },
+          "user_2_flight": {
+            "id": 3,
+            "price": 368.71,
+            "airline": "LH",
+            "duration": 7.7
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 17,
+            "price": 618.99,
+            "airline": "AC",
+            "duration": 9.0
+          },
+          "user_2_flight": {
+            "id": 19,
+            "price": 455.81,
+            "airline": "LH",
+            "duration": 9.0
+          }
+        },
+        {
+          "destination": "ZRH",
+          "date": "2025-06-12",
+          "user_1_flight": {
+            "id": 18,
+            "price": 549.62,
+            "airline": "AC",
+            "duration": 8.6
+          },
+          "user_2_flight": {
+            "id": 19,
+            "price": 455.81,
+            "airline": "LH",
+            "duration": 9.0
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 9,
+            "price": 505.0,
+            "airline": "AC",
+            "duration": 8.1
+          },
+          "user_2_flight": {
+            "id": 11,
+            "price": 311.45,
+            "airline": "LH",
+            "duration": 8.1
+          }
+        },
+        {
+          "destination": "ARN",
+          "date": "2025-06-10",
+          "user_1_flight": {
+            "id": 10,
+            "price": 513.85,
+            "airline": "AC",
+            "duration": 7.1
+          },
+          "user_2_flight": {
+            "id": 11,
+            "price": 311.45,
+            "airline": "LH",
+            "duration": 8.1
+          }
+        }
+      ]
+    }
+  },
+  "all_solutions": [
+    {
+      "destination": "BUD",
+      "date": "2025-06-11",
+      "user_1_flight": {
+        "id": 1,
+        "price": 573.73,
+        "airline": "AC",
+        "duration": 7.7
+      },
+      "user_2_flight": {
+        "id": 2,
+        "price": 613.09,
+        "airline": "AC",
+        "duration": 8.8
+      }
+    },
+    {
+      "destination": "BUD",
+      "date": "2025-06-11",
+      "user_1_flight": {
+        "id": 1,
+        "price": 573.73,
+        "airline": "AC",
+        "duration": 7.7
+      },
+      "user_2_flight": {
+        "id": 3,
+        "price": 368.71,
+        "airline": "LH",
+        "duration": 7.7
+      }
+    },
+    {
+      "destination": "BUD",
+      "date": "2025-06-11",
+      "user_1_flight": {
+        "id": 1,
+        "price": 573.73,
+        "airline": "AC",
+        "duration": 7.7
+      },
+      "user_2_flight": {
+        "id": 8,
+        "price": 653.23,
+        "airline": "AC",
+        "duration": 7.7
+      }
+    },
+    {
+      "destination": "BUD",
+      "date": "2025-06-11",
+      "user_1_flight": {
+        "id": 2,
+        "price": 613.09,
+        "airline": "AC",
+        "duration": 8.8
+      },
+      "user_2_flight": {
+        "id": 1,
+        "price": 573.73,
+        "airline": "AC",
+        "duration": 7.7
+      }
+    },
+    {
+      "destination": "BUD",
+      "date": "2025-06-11",
+      "user_1_flight": {
+        "id": 2,
+        "price": 613.09,
+        "airline": "AC",
+        "duration": 8.8
+      },
+      "user_2_flight": {
+        "id": 3,
+        "price": 368.71,
+        "airline": "LH",
+        "duration": 7.7
+      }
+    },
+    {
+      "destination": "BUD",
+      "date": "2025-06-11",
+      "user_1_flight": {
+        "id": 2,
+        "price": 613.09,
+        "airline": "AC",
+        "duration": 8.8
+      },
+      "user_2_flight": {
+        "id": 8,
+        "price": 653.23,
+        "airline": "AC",
+        "duration": 7.7
+      }
+    },
+    {
+      "destination": "ZRH",
+      "date": "2025-06-12",
+      "user_1_flight": {
+        "id": 17,
+        "price": 618.99,
+        "airline": "AC",
+        "duration": 9.0
+      },
+      "user_2_flight": {
+        "id": 18,
+        "price": 549.62,
+        "airline": "AC",
+        "duration": 8.6
+      }
+    },
+    {
+      "destination": "ZRH",
+      "date": "2025-06-12",
+      "user_1_flight": {
+        "id": 17,
+        "price": 618.99,
+        "airline": "AC",
+        "duration": 9.0
+      },
+      "user_2_flight": {
+        "id": 19,
+        "price": 455.81,
+        "airline": "LH",
+        "duration": 9.0
+      }
+    },
+    {
+      "destination": "ZRH",
+      "date": "2025-06-12",
+      "user_1_flight": {
+        "id": 17,
+        "price": 618.99,
+        "airline": "AC",
+        "duration": 9.0
+      },
+      "user_2_flight": {
+        "id": 24,
+        "price": 646.12,
+        "airline": "AC",
+        "duration": 9.0
+      }
+    },
+    {
+      "destination": "ZRH",
+      "date": "2025-06-12",
+      "user_1_flight": {
+        "id": 18,
+        "price": 549.62,
+        "airline": "AC",
+        "duration": 8.6
+      },
+      "user_2_flight": {
+        "id": 17,
+        "price": 618.99,
+        "airline": "AC",
+        "duration": 9.0
+      }
+    },
+    {
+      "destination": "ZRH",
+      "date": "2025-06-12",
+      "user_1_flight": {
+        "id": 18,
+        "price": 549.62,
+        "airline": "AC",
+        "duration": 8.6
+      },
+      "user_2_flight": {
+        "id": 19,
+        "price": 455.81,
+        "airline": "LH",
+        "duration": 9.0
+      }
+    },
+    {
+      "destination": "ZRH",
+      "date": "2025-06-12",
+      "user_1_flight": {
+        "id": 18,
+        "price": 549.62,
+        "airline": "AC",
+        "duration": 8.6
+      },
+      "user_2_flight": {
+        "id": 24,
+        "price": 646.12,
+        "airline": "AC",
+        "duration": 9.0
+      }
+    },
+    {
+      "destination": "ARN",
+      "date": "2025-06-10",
+      "user_1_flight": {
+        "id": 9,
+        "price": 505.0,
+        "airline": "AC",
+        "duration": 8.1
+      },
+      "user_2_flight": {
+        "id": 10,
+        "price": 513.85,
+        "airline": "AC",
+        "duration": 7.1
+      }
+    },
+    {
+      "destination": "ARN",
+      "date": "2025-06-10",
+      "user_1_flight": {
+        "id": 9,
+        "price": 505.0,
+        "airline": "AC",
+        "duration": 8.1
+      },
+      "user_2_flight": {
+        "id": 11,
+        "price": 311.45,
+        "airline": "LH",
+        "duration": 8.1
+      }
+    },
+    {
+      "destination": "ARN",
+      "date": "2025-06-10",
+      "user_1_flight": {
+        "id": 9,
+        "price": 505.0,
+        "airline": "AC",
+        "duration": 8.1
+      },
+      "user_2_flight": {
+        "id": 16,
+        "price": 646.24,
+        "airline": "AC",
+        "duration": 8.1
+      }
+    },
+    {
+      "destination": "ARN",
+      "date": "2025-06-10",
+      "user_1_flight": {
+        "id": 10,
+        "price": 513.85,
+        "airline": "AC",
+        "duration": 7.1
+      },
+      "user_2_flight": {
+        "id": 9,
+        "price": 505.0,
+        "airline": "AC",
+        "duration": 8.1
+      }
+    },
+    {
+      "destination": "ARN",
+      "date": "2025-06-10",
+      "user_1_flight": {
+        "id": 10,
+        "price": 513.85,
+        "airline": "AC",
+        "duration": 7.1
+      },
+      "user_2_flight": {
+        "id": 11,
+        "price": 311.45,
+        "airline": "LH",
+        "duration": 8.1
+      }
+    },
+    {
+      "destination": "ARN",
+      "date": "2025-06-10",
+      "user_1_flight": {
+        "id": 10,
+        "price": 513.85,
+        "airline": "AC",
+        "duration": 7.1
+      },
+      "user_2_flight": {
+        "id": 16,
+        "price": 646.24,
+        "airline": "AC",
+        "duration": 8.1
+      }
+    }
+  ],
+  "puzzle_info": {
+    "user_1_budget": 640,
+    "user_2_budget": 770,
+    "overlap_dates": [
+      "2025-06-10",
+      "2025-06-11",
+      "2025-06-12"
+    ]
+  }
+}

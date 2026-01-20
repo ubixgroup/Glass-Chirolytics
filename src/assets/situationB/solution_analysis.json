@@ -1,0 +1,1642 @@
+{
+  "analysis_summary": {
+    "total_count": 25,
+    "by_destination": {
+      "BKK": [
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 14,
+            "price": 587.65,
+            "airline": "EK",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 20,
+            "price": 705.87,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          },
+          "user_2_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          },
+          "user_2_flight": {
+            "id": 14,
+            "price": 587.65,
+            "airline": "EK",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          },
+          "user_2_flight": {
+            "id": 20,
+            "price": 705.87,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 13,
+            "price": 589.72,
+            "airline": "LH",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 13,
+            "price": 589.72,
+            "airline": "LH",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 13,
+            "price": 589.72,
+            "airline": "LH",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 14,
+            "price": 587.65,
+            "airline": "EK",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 13,
+            "price": 589.72,
+            "airline": "LH",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 20,
+            "price": 705.87,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        }
+      ],
+      "SIN": [
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 4,
+            "price": 561.0,
+            "airline": "EK",
+            "duration": 13.1
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 10,
+            "price": 721.89,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          },
+          "user_2_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          },
+          "user_2_flight": {
+            "id": 4,
+            "price": 561.0,
+            "airline": "EK",
+            "duration": 13.1
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          },
+          "user_2_flight": {
+            "id": 10,
+            "price": 721.89,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 3,
+            "price": 657.94,
+            "airline": "LH",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 3,
+            "price": 657.94,
+            "airline": "LH",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 3,
+            "price": 657.94,
+            "airline": "LH",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 4,
+            "price": 561.0,
+            "airline": "EK",
+            "duration": 13.1
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 3,
+            "price": 657.94,
+            "airline": "LH",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 10,
+            "price": 721.89,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        }
+      ],
+      "DEL": [
+        {
+          "destination": "DEL",
+          "date": "2025-07-19",
+          "user_1_flight": {
+            "id": 21,
+            "price": 569.22,
+            "airline": "SQ",
+            "duration": 6.5
+          },
+          "user_2_flight": {
+            "id": 22,
+            "price": 649.7,
+            "airline": "SQ",
+            "duration": 7.2
+          }
+        },
+        {
+          "destination": "DEL",
+          "date": "2025-07-19",
+          "user_1_flight": {
+            "id": 21,
+            "price": 569.22,
+            "airline": "SQ",
+            "duration": 6.5
+          },
+          "user_2_flight": {
+            "id": 28,
+            "price": 714.12,
+            "airline": "SQ",
+            "duration": 6.5
+          }
+        },
+        {
+          "destination": "DEL",
+          "date": "2025-07-19",
+          "user_1_flight": {
+            "id": 22,
+            "price": 649.7,
+            "airline": "SQ",
+            "duration": 7.2
+          },
+          "user_2_flight": {
+            "id": 21,
+            "price": 569.22,
+            "airline": "SQ",
+            "duration": 6.5
+          }
+        },
+        {
+          "destination": "DEL",
+          "date": "2025-07-19",
+          "user_1_flight": {
+            "id": 22,
+            "price": 649.7,
+            "airline": "SQ",
+            "duration": 7.2
+          },
+          "user_2_flight": {
+            "id": 28,
+            "price": 714.12,
+            "airline": "SQ",
+            "duration": 6.5
+          }
+        },
+        {
+          "destination": "DEL",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 179,
+            "price": 625.9,
+            "airline": "LH",
+            "duration": 7.2
+          },
+          "user_2_flight": {
+            "id": 190,
+            "price": 786.45,
+            "airline": "SQ",
+            "duration": 7.4
+          }
+        }
+      ]
+    },
+    "by_date": {
+      "2025-07-18": [
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 14,
+            "price": 587.65,
+            "airline": "EK",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 20,
+            "price": 705.87,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          },
+          "user_2_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          },
+          "user_2_flight": {
+            "id": 14,
+            "price": 587.65,
+            "airline": "EK",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          },
+          "user_2_flight": {
+            "id": 20,
+            "price": 705.87,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 13,
+            "price": 589.72,
+            "airline": "LH",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 13,
+            "price": 589.72,
+            "airline": "LH",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 13,
+            "price": 589.72,
+            "airline": "LH",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 14,
+            "price": 587.65,
+            "airline": "EK",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 13,
+            "price": 589.72,
+            "airline": "LH",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 20,
+            "price": 705.87,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        }
+      ],
+      "2025-07-17": [
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 4,
+            "price": 561.0,
+            "airline": "EK",
+            "duration": 13.1
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 10,
+            "price": 721.89,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          },
+          "user_2_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          },
+          "user_2_flight": {
+            "id": 4,
+            "price": 561.0,
+            "airline": "EK",
+            "duration": 13.1
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          },
+          "user_2_flight": {
+            "id": 10,
+            "price": 721.89,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 3,
+            "price": 657.94,
+            "airline": "LH",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 3,
+            "price": 657.94,
+            "airline": "LH",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 3,
+            "price": 657.94,
+            "airline": "LH",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 4,
+            "price": 561.0,
+            "airline": "EK",
+            "duration": 13.1
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 3,
+            "price": 657.94,
+            "airline": "LH",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 10,
+            "price": 721.89,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "DEL",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 179,
+            "price": 625.9,
+            "airline": "LH",
+            "duration": 7.2
+          },
+          "user_2_flight": {
+            "id": 190,
+            "price": 786.45,
+            "airline": "SQ",
+            "duration": 7.4
+          }
+        }
+      ],
+      "2025-07-19": [
+        {
+          "destination": "DEL",
+          "date": "2025-07-19",
+          "user_1_flight": {
+            "id": 21,
+            "price": 569.22,
+            "airline": "SQ",
+            "duration": 6.5
+          },
+          "user_2_flight": {
+            "id": 22,
+            "price": 649.7,
+            "airline": "SQ",
+            "duration": 7.2
+          }
+        },
+        {
+          "destination": "DEL",
+          "date": "2025-07-19",
+          "user_1_flight": {
+            "id": 21,
+            "price": 569.22,
+            "airline": "SQ",
+            "duration": 6.5
+          },
+          "user_2_flight": {
+            "id": 28,
+            "price": 714.12,
+            "airline": "SQ",
+            "duration": 6.5
+          }
+        },
+        {
+          "destination": "DEL",
+          "date": "2025-07-19",
+          "user_1_flight": {
+            "id": 22,
+            "price": 649.7,
+            "airline": "SQ",
+            "duration": 7.2
+          },
+          "user_2_flight": {
+            "id": 21,
+            "price": 569.22,
+            "airline": "SQ",
+            "duration": 6.5
+          }
+        },
+        {
+          "destination": "DEL",
+          "date": "2025-07-19",
+          "user_1_flight": {
+            "id": 22,
+            "price": 649.7,
+            "airline": "SQ",
+            "duration": 7.2
+          },
+          "user_2_flight": {
+            "id": 28,
+            "price": 714.12,
+            "airline": "SQ",
+            "duration": 6.5
+          }
+        }
+      ]
+    },
+    "by_airline_combo": {
+      "SQ-SQ": [
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 20,
+            "price": 705.87,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          },
+          "user_2_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          },
+          "user_2_flight": {
+            "id": 20,
+            "price": 705.87,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 10,
+            "price": 721.89,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          },
+          "user_2_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          },
+          "user_2_flight": {
+            "id": 10,
+            "price": 721.89,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "DEL",
+          "date": "2025-07-19",
+          "user_1_flight": {
+            "id": 21,
+            "price": 569.22,
+            "airline": "SQ",
+            "duration": 6.5
+          },
+          "user_2_flight": {
+            "id": 22,
+            "price": 649.7,
+            "airline": "SQ",
+            "duration": 7.2
+          }
+        },
+        {
+          "destination": "DEL",
+          "date": "2025-07-19",
+          "user_1_flight": {
+            "id": 21,
+            "price": 569.22,
+            "airline": "SQ",
+            "duration": 6.5
+          },
+          "user_2_flight": {
+            "id": 28,
+            "price": 714.12,
+            "airline": "SQ",
+            "duration": 6.5
+          }
+        },
+        {
+          "destination": "DEL",
+          "date": "2025-07-19",
+          "user_1_flight": {
+            "id": 22,
+            "price": 649.7,
+            "airline": "SQ",
+            "duration": 7.2
+          },
+          "user_2_flight": {
+            "id": 21,
+            "price": 569.22,
+            "airline": "SQ",
+            "duration": 6.5
+          }
+        },
+        {
+          "destination": "DEL",
+          "date": "2025-07-19",
+          "user_1_flight": {
+            "id": 22,
+            "price": 649.7,
+            "airline": "SQ",
+            "duration": 7.2
+          },
+          "user_2_flight": {
+            "id": 28,
+            "price": 714.12,
+            "airline": "SQ",
+            "duration": 6.5
+          }
+        }
+      ],
+      "SQ-EK": [
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 14,
+            "price": 587.65,
+            "airline": "EK",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          },
+          "user_2_flight": {
+            "id": 14,
+            "price": 587.65,
+            "airline": "EK",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 4,
+            "price": 561.0,
+            "airline": "EK",
+            "duration": 13.1
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          },
+          "user_2_flight": {
+            "id": 4,
+            "price": 561.0,
+            "airline": "EK",
+            "duration": 13.1
+          }
+        }
+      ],
+      "LH-SQ": [
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 13,
+            "price": 589.72,
+            "airline": "LH",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 11,
+            "price": 573.78,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 13,
+            "price": 589.72,
+            "airline": "LH",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 12,
+            "price": 607.73,
+            "airline": "SQ",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 13,
+            "price": 589.72,
+            "airline": "LH",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 20,
+            "price": 705.87,
+            "airline": "SQ",
+            "duration": 11.4
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 3,
+            "price": 657.94,
+            "airline": "LH",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 1,
+            "price": 655.34,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 3,
+            "price": 657.94,
+            "airline": "LH",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 2,
+            "price": 609.93,
+            "airline": "SQ",
+            "duration": 13.1
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 3,
+            "price": 657.94,
+            "airline": "LH",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 10,
+            "price": 721.89,
+            "airline": "SQ",
+            "duration": 12.6
+          }
+        },
+        {
+          "destination": "DEL",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 179,
+            "price": 625.9,
+            "airline": "LH",
+            "duration": 7.2
+          },
+          "user_2_flight": {
+            "id": 190,
+            "price": 786.45,
+            "airline": "SQ",
+            "duration": 7.4
+          }
+        }
+      ],
+      "LH-EK": [
+        {
+          "destination": "BKK",
+          "date": "2025-07-18",
+          "user_1_flight": {
+            "id": 13,
+            "price": 589.72,
+            "airline": "LH",
+            "duration": 11.4
+          },
+          "user_2_flight": {
+            "id": 14,
+            "price": 587.65,
+            "airline": "EK",
+            "duration": 12.3
+          }
+        },
+        {
+          "destination": "SIN",
+          "date": "2025-07-17",
+          "user_1_flight": {
+            "id": 3,
+            "price": 657.94,
+            "airline": "LH",
+            "duration": 12.6
+          },
+          "user_2_flight": {
+            "id": 4,
+            "price": 561.0,
+            "airline": "EK",
+            "duration": 13.1
+          }
+        }
+      ]
+    }
+  },
+  "all_solutions": [
+    {
+      "destination": "BKK",
+      "date": "2025-07-18",
+      "user_1_flight": {
+        "id": 11,
+        "price": 573.78,
+        "airline": "SQ",
+        "duration": 11.4
+      },
+      "user_2_flight": {
+        "id": 12,
+        "price": 607.73,
+        "airline": "SQ",
+        "duration": 12.3
+      }
+    },
+    {
+      "destination": "BKK",
+      "date": "2025-07-18",
+      "user_1_flight": {
+        "id": 11,
+        "price": 573.78,
+        "airline": "SQ",
+        "duration": 11.4
+      },
+      "user_2_flight": {
+        "id": 14,
+        "price": 587.65,
+        "airline": "EK",
+        "duration": 12.3
+      }
+    },
+    {
+      "destination": "BKK",
+      "date": "2025-07-18",
+      "user_1_flight": {
+        "id": 11,
+        "price": 573.78,
+        "airline": "SQ",
+        "duration": 11.4
+      },
+      "user_2_flight": {
+        "id": 20,
+        "price": 705.87,
+        "airline": "SQ",
+        "duration": 11.4
+      }
+    },
+    {
+      "destination": "BKK",
+      "date": "2025-07-18",
+      "user_1_flight": {
+        "id": 12,
+        "price": 607.73,
+        "airline": "SQ",
+        "duration": 12.3
+      },
+      "user_2_flight": {
+        "id": 11,
+        "price": 573.78,
+        "airline": "SQ",
+        "duration": 11.4
+      }
+    },
+    {
+      "destination": "BKK",
+      "date": "2025-07-18",
+      "user_1_flight": {
+        "id": 12,
+        "price": 607.73,
+        "airline": "SQ",
+        "duration": 12.3
+      },
+      "user_2_flight": {
+        "id": 14,
+        "price": 587.65,
+        "airline": "EK",
+        "duration": 12.3
+      }
+    },
+    {
+      "destination": "BKK",
+      "date": "2025-07-18",
+      "user_1_flight": {
+        "id": 12,
+        "price": 607.73,
+        "airline": "SQ",
+        "duration": 12.3
+      },
+      "user_2_flight": {
+        "id": 20,
+        "price": 705.87,
+        "airline": "SQ",
+        "duration": 11.4
+      }
+    },
+    {
+      "destination": "BKK",
+      "date": "2025-07-18",
+      "user_1_flight": {
+        "id": 13,
+        "price": 589.72,
+        "airline": "LH",
+        "duration": 11.4
+      },
+      "user_2_flight": {
+        "id": 11,
+        "price": 573.78,
+        "airline": "SQ",
+        "duration": 11.4
+      }
+    },
+    {
+      "destination": "BKK",
+      "date": "2025-07-18",
+      "user_1_flight": {
+        "id": 13,
+        "price": 589.72,
+        "airline": "LH",
+        "duration": 11.4
+      },
+      "user_2_flight": {
+        "id": 12,
+        "price": 607.73,
+        "airline": "SQ",
+        "duration": 12.3
+      }
+    },
+    {
+      "destination": "BKK",
+      "date": "2025-07-18",
+      "user_1_flight": {
+        "id": 13,
+        "price": 589.72,
+        "airline": "LH",
+        "duration": 11.4
+      },
+      "user_2_flight": {
+        "id": 14,
+        "price": 587.65,
+        "airline": "EK",
+        "duration": 12.3
+      }
+    },
+    {
+      "destination": "BKK",
+      "date": "2025-07-18",
+      "user_1_flight": {
+        "id": 13,
+        "price": 589.72,
+        "airline": "LH",
+        "duration": 11.4
+      },
+      "user_2_flight": {
+        "id": 20,
+        "price": 705.87,
+        "airline": "SQ",
+        "duration": 11.4
+      }
+    },
+    {
+      "destination": "SIN",
+      "date": "2025-07-17",
+      "user_1_flight": {
+        "id": 1,
+        "price": 655.34,
+        "airline": "SQ",
+        "duration": 12.6
+      },
+      "user_2_flight": {
+        "id": 2,
+        "price": 609.93,
+        "airline": "SQ",
+        "duration": 13.1
+      }
+    },
+    {
+      "destination": "SIN",
+      "date": "2025-07-17",
+      "user_1_flight": {
+        "id": 1,
+        "price": 655.34,
+        "airline": "SQ",
+        "duration": 12.6
+      },
+      "user_2_flight": {
+        "id": 4,
+        "price": 561.0,
+        "airline": "EK",
+        "duration": 13.1
+      }
+    },
+    {
+      "destination": "SIN",
+      "date": "2025-07-17",
+      "user_1_flight": {
+        "id": 1,
+        "price": 655.34,
+        "airline": "SQ",
+        "duration": 12.6
+      },
+      "user_2_flight": {
+        "id": 10,
+        "price": 721.89,
+        "airline": "SQ",
+        "duration": 12.6
+      }
+    },
+    {
+      "destination": "SIN",
+      "date": "2025-07-17",
+      "user_1_flight": {
+        "id": 2,
+        "price": 609.93,
+        "airline": "SQ",
+        "duration": 13.1
+      },
+      "user_2_flight": {
+        "id": 1,
+        "price": 655.34,
+        "airline": "SQ",
+        "duration": 12.6
+      }
+    },
+    {
+      "destination": "SIN",
+      "date": "2025-07-17",
+      "user_1_flight": {
+        "id": 2,
+        "price": 609.93,
+        "airline": "SQ",
+        "duration": 13.1
+      },
+      "user_2_flight": {
+        "id": 4,
+        "price": 561.0,
+        "airline": "EK",
+        "duration": 13.1
+      }
+    },
+    {
+      "destination": "SIN",
+      "date": "2025-07-17",
+      "user_1_flight": {
+        "id": 2,
+        "price": 609.93,
+        "airline": "SQ",
+        "duration": 13.1
+      },
+      "user_2_flight": {
+        "id": 10,
+        "price": 721.89,
+        "airline": "SQ",
+        "duration": 12.6
+      }
+    },
+    {
+      "destination": "SIN",
+      "date": "2025-07-17",
+      "user_1_flight": {
+        "id": 3,
+        "price": 657.94,
+        "airline": "LH",
+        "duration": 12.6
+      },
+      "user_2_flight": {
+        "id": 1,
+        "price": 655.34,
+        "airline": "SQ",
+        "duration": 12.6
+      }
+    },
+    {
+      "destination": "SIN",
+      "date": "2025-07-17",
+      "user_1_flight": {
+        "id": 3,
+        "price": 657.94,
+        "airline": "LH",
+        "duration": 12.6
+      },
+      "user_2_flight": {
+        "id": 2,
+        "price": 609.93,
+        "airline": "SQ",
+        "duration": 13.1
+      }
+    },
+    {
+      "destination": "SIN",
+      "date": "2025-07-17",
+      "user_1_flight": {
+        "id": 3,
+        "price": 657.94,
+        "airline": "LH",
+        "duration": 12.6
+      },
+      "user_2_flight": {
+        "id": 4,
+        "price": 561.0,
+        "airline": "EK",
+        "duration": 13.1
+      }
+    },
+    {
+      "destination": "SIN",
+      "date": "2025-07-17",
+      "user_1_flight": {
+        "id": 3,
+        "price": 657.94,
+        "airline": "LH",
+        "duration": 12.6
+      },
+      "user_2_flight": {
+        "id": 10,
+        "price": 721.89,
+        "airline": "SQ",
+        "duration": 12.6
+      }
+    },
+    {
+      "destination": "DEL",
+      "date": "2025-07-19",
+      "user_1_flight": {
+        "id": 21,
+        "price": 569.22,
+        "airline": "SQ",
+        "duration": 6.5
+      },
+      "user_2_flight": {
+        "id": 22,
+        "price": 649.7,
+        "airline": "SQ",
+        "duration": 7.2
+      }
+    },
+    {
+      "destination": "DEL",
+      "date": "2025-07-19",
+      "user_1_flight": {
+        "id": 21,
+        "price": 569.22,
+        "airline": "SQ",
+        "duration": 6.5
+      },
+      "user_2_flight": {
+        "id": 28,
+        "price": 714.12,
+        "airline": "SQ",
+        "duration": 6.5
+      }
+    },
+    {
+      "destination": "DEL",
+      "date": "2025-07-19",
+      "user_1_flight": {
+        "id": 22,
+        "price": 649.7,
+        "airline": "SQ",
+        "duration": 7.2
+      },
+      "user_2_flight": {
+        "id": 21,
+        "price": 569.22,
+        "airline": "SQ",
+        "duration": 6.5
+      }
+    },
+    {
+      "destination": "DEL",
+      "date": "2025-07-19",
+      "user_1_flight": {
+        "id": 22,
+        "price": 649.7,
+        "airline": "SQ",
+        "duration": 7.2
+      },
+      "user_2_flight": {
+        "id": 28,
+        "price": 714.12,
+        "airline": "SQ",
+        "duration": 6.5
+      }
+    },
+    {
+      "destination": "DEL",
+      "date": "2025-07-17",
+      "user_1_flight": {
+        "id": 179,
+        "price": 625.9,
+        "airline": "LH",
+        "duration": 7.2
+      },
+      "user_2_flight": {
+        "id": 190,
+        "price": 786.45,
+        "airline": "SQ",
+        "duration": 7.4
+      }
+    }
+  ],
+  "puzzle_info": {
+    "user_1_budget": 700,
+    "user_2_budget": 810,
+    "overlap_dates": [
+      "2025-07-17",
+      "2025-07-18",
+      "2025-07-19"
+    ]
+  }
+}

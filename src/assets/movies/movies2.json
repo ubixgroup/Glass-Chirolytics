@@ -1,0 +1,883 @@
+{
+    "movies": [
+        {
+            "id": "m1",
+            "title": "Movie 1",
+            "released": 2020,
+            "tagline": "An Epic Tale 1",
+            "genre": [
+                "Action",
+                "Romance"
+            ],
+            "directors": [
+                "d5"
+            ],
+            "actors": [
+                "a8",
+                "a5",
+                "a24",
+                "a4",
+                "a22"
+            ]
+        },
+        {
+            "id": "m2",
+            "title": "Movie 2",
+            "released": 2014,
+            "tagline": "An Epic Tale 2",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "directors": [
+                "d7"
+            ],
+            "actors": [
+                "a2",
+                "a1",
+                "a3",
+                "a7",
+                "a8"
+            ]
+        },
+        {
+            "id": "m3",
+            "title": "Movie 3",
+            "released": 2012,
+            "tagline": "An Epic Tale 3",
+            "genre": [
+                "Thriller",
+                "Action"
+            ],
+            "directors": [
+                "d9"
+            ],
+            "actors": [
+                "a7",
+                "a23",
+                "a21",
+                "a18",
+                "a14"
+            ]
+        },
+        {
+            "id": "m4",
+            "title": "Movie 4",
+            "released": 1994,
+            "tagline": "An Epic Tale 4",
+            "genre": [
+                "Comedy",
+                "Thriller"
+            ],
+            "directors": [
+                "d5"
+            ],
+            "actors": [
+                "a1",
+                "a25",
+                "a6",
+                "a23",
+                "a14"
+            ]
+        },
+        {
+            "id": "m5",
+            "title": "Movie 5",
+            "released": 2001,
+            "tagline": "An Epic Tale 5",
+            "genre": [
+                "Sci-Fi",
+                "Drama"
+            ],
+            "directors": [
+                "d4"
+            ],
+            "actors": [
+                "a25",
+                "a11",
+                "a4",
+                "a3",
+                "a13"
+            ]
+        },
+        {
+            "id": "m6",
+            "title": "Movie 6",
+            "released": 1986,
+            "tagline": "An Epic Tale 6",
+            "genre": [
+                "Sci-Fi",
+                "Romance"
+            ],
+            "directors": [
+                "d10"
+            ],
+            "actors": [
+                "a9",
+                "a2",
+                "a24",
+                "a15",
+                "a18"
+            ]
+        },
+        {
+            "id": "m7",
+            "title": "Movie 7",
+            "released": 1987,
+            "tagline": "An Epic Tale 7",
+            "genre": [
+                "Comedy",
+                "Action"
+            ],
+            "directors": [
+                "d9"
+            ],
+            "actors": [
+                "a10",
+                "a21",
+                "a20",
+                "a12",
+                "a19"
+            ]
+        },
+        {
+            "id": "m8",
+            "title": "Movie 8",
+            "released": 1992,
+            "tagline": "An Epic Tale 8",
+            "genre": [
+                "Romance",
+                "Action"
+            ],
+            "directors": [
+                "d1"
+            ],
+            "actors": [
+                "a22",
+                "a8",
+                "a25",
+                "a10",
+                "a3"
+            ]
+        },
+        {
+            "id": "m9",
+            "title": "Movie 9",
+            "released": 1994,
+            "tagline": "An Epic Tale 9",
+            "genre": [
+                "Action",
+                "Comedy"
+            ],
+            "directors": [
+                "d5"
+            ],
+            "actors": [
+                "a15",
+                "a21",
+                "a12",
+                "a6",
+                "a7"
+            ]
+        },
+        {
+            "id": "m10",
+            "title": "Movie 10",
+            "released": 2022,
+            "tagline": "An Epic Tale 10",
+            "genre": [
+                "Sci-Fi",
+                "Action"
+            ],
+            "directors": [
+                "d10"
+            ],
+            "actors": [
+                "a21",
+                "a6",
+                "a18",
+                "a24",
+                "a8"
+            ]
+        },
+        {
+            "id": "m11",
+            "title": "Movie 11",
+            "released": 1990,
+            "tagline": "An Epic Tale 11",
+            "genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "directors": [
+                "d5"
+            ],
+            "actors": [
+                "a21",
+                "a23",
+                "a18",
+                "a8",
+                "a22"
+            ]
+        },
+        {
+            "id": "m12",
+            "title": "Movie 12",
+            "released": 2000,
+            "tagline": "An Epic Tale 12",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "directors": [
+                "d1"
+            ],
+            "actors": [
+                "a11",
+                "a13",
+                "a9",
+                "a3",
+                "a7"
+            ]
+        },
+        {
+            "id": "m13",
+            "title": "Movie 13",
+            "released": 2016,
+            "tagline": "An Epic Tale 13",
+            "genre": [
+                "Romance",
+                "Sci-Fi"
+            ],
+            "directors": [
+                "d4"
+            ],
+            "actors": [
+                "a21",
+                "a16",
+                "a13",
+                "a15",
+                "a5"
+            ]
+        },
+        {
+            "id": "m14",
+            "title": "Movie 14",
+            "released": 1996,
+            "tagline": "An Epic Tale 14",
+            "genre": [
+                "Drama",
+                "Romance"
+            ],
+            "directors": [
+                "d9"
+            ],
+            "actors": [
+                "a18",
+                "a9",
+                "a24",
+                "a19",
+                "a14"
+            ]
+        },
+        {
+            "id": "m15",
+            "title": "Movie 15",
+            "released": 2017,
+            "tagline": "An Epic Tale 15",
+            "genre": [
+                "Comedy",
+                "Sci-Fi"
+            ],
+            "directors": [
+                "d4"
+            ],
+            "actors": [
+                "a5",
+                "a17",
+                "a16",
+                "a3",
+                "a25"
+            ]
+        }
+    ],
+    "actors": [
+        {
+            "id": "a1",
+            "name": "Actor 1",
+            "born": 1953,
+            "roles": [
+                {
+                    "movie_id": "m14",
+                    "character": "Character 1"
+                },
+                {
+                    "movie_id": "m3",
+                    "character": "Character 2"
+                },
+                {
+                    "movie_id": "m13",
+                    "character": "Character 4"
+                }
+            ]
+        },
+        {
+            "id": "a2",
+            "name": "Actor 2",
+            "born": 1988,
+            "roles": [
+                {
+                    "movie_id": "m2",
+                    "character": "Character 4"
+                },
+                {
+                    "movie_id": "m7",
+                    "character": "Character 5"
+                },
+                {
+                    "movie_id": "m8",
+                    "character": "Character 5"
+                }
+            ]
+        },
+        {
+            "id": "a3",
+            "name": "Actor 3",
+            "born": 1966,
+            "roles": [
+                {
+                    "movie_id": "m9",
+                    "character": "Character 1"
+                },
+                {
+                    "movie_id": "m11",
+                    "character": "Character 1"
+                },
+                {
+                    "movie_id": "m11",
+                    "character": "Character 5"
+                }
+            ]
+        },
+        {
+            "id": "a4",
+            "name": "Actor 4",
+            "born": 1998,
+            "roles": [
+                {
+                    "movie_id": "m5",
+                    "character": "Character 3"
+                },
+                {
+                    "movie_id": "m2",
+                    "character": "Character 3"
+                },
+                {
+                    "movie_id": "m7",
+                    "character": "Character 2"
+                }
+            ]
+        },
+        {
+            "id": "a5",
+            "name": "Actor 5",
+            "born": 1979,
+            "roles": [
+                {
+                    "movie_id": "m1",
+                    "character": "Character 3"
+                },
+                {
+                    "movie_id": "m9",
+                    "character": "Character 2"
+                },
+                {
+                    "movie_id": "m9",
+                    "character": "Character 1"
+                }
+            ]
+        },
+        {
+            "id": "a6",
+            "name": "Actor 6",
+            "born": 1990,
+            "roles": [
+                {
+                    "movie_id": "m5",
+                    "character": "Character 5"
+                },
+                {
+                    "movie_id": "m10",
+                    "character": "Character 2"
+                },
+                {
+                    "movie_id": "m3",
+                    "character": "Character 3"
+                }
+            ]
+        },
+        {
+            "id": "a7",
+            "name": "Actor 7",
+            "born": 1998,
+            "roles": [
+                {
+                    "movie_id": "m3",
+                    "character": "Character 5"
+                },
+                {
+                    "movie_id": "m13",
+                    "character": "Character 5"
+                },
+                {
+                    "movie_id": "m15",
+                    "character": "Character 1"
+                }
+            ]
+        },
+        {
+            "id": "a8",
+            "name": "Actor 8",
+            "born": 1988,
+            "roles": [
+                {
+                    "movie_id": "m6",
+                    "character": "Character 4"
+                },
+                {
+                    "movie_id": "m1",
+                    "character": "Character 1"
+                },
+                {
+                    "movie_id": "m15",
+                    "character": "Character 3"
+                }
+            ]
+        },
+        {
+            "id": "a9",
+            "name": "Actor 9",
+            "born": 1969,
+            "roles": [
+                {
+                    "movie_id": "m4",
+                    "character": "Character 1"
+                },
+                {
+                    "movie_id": "m4",
+                    "character": "Character 5"
+                },
+                {
+                    "movie_id": "m2",
+                    "character": "Character 1"
+                }
+            ]
+        },
+        {
+            "id": "a10",
+            "name": "Actor 10",
+            "born": 1996,
+            "roles": [
+                {
+                    "movie_id": "m8",
+                    "character": "Character 1"
+                },
+                {
+                    "movie_id": "m13",
+                    "character": "Character 5"
+                },
+                {
+                    "movie_id": "m13",
+                    "character": "Character 2"
+                }
+            ]
+        },
+        {
+            "id": "a11",
+            "name": "Actor 11",
+            "born": 1958,
+            "roles": [
+                {
+                    "movie_id": "m11",
+                    "character": "Character 4"
+                },
+                {
+                    "movie_id": "m9",
+                    "character": "Character 2"
+                },
+                {
+                    "movie_id": "m5",
+                    "character": "Character 5"
+                }
+            ]
+        },
+        {
+            "id": "a12",
+            "name": "Actor 12",
+            "born": 1988,
+            "roles": [
+                {
+                    "movie_id": "m7",
+                    "character": "Character 2"
+                },
+                {
+                    "movie_id": "m15",
+                    "character": "Character 5"
+                },
+                {
+                    "movie_id": "m13",
+                    "character": "Character 2"
+                }
+            ]
+        },
+        {
+            "id": "a13",
+            "name": "Actor 13",
+            "born": 1995,
+            "roles": [
+                {
+                    "movie_id": "m5",
+                    "character": "Character 4"
+                },
+                {
+                    "movie_id": "m11",
+                    "character": "Character 3"
+                },
+                {
+                    "movie_id": "m8",
+                    "character": "Character 5"
+                }
+            ]
+        },
+        {
+            "id": "a14",
+            "name": "Actor 14",
+            "born": 1978,
+            "roles": [
+                {
+                    "movie_id": "m2",
+                    "character": "Character 2"
+                },
+                {
+                    "movie_id": "m4",
+                    "character": "Character 1"
+                },
+                {
+                    "movie_id": "m6",
+                    "character": "Character 1"
+                }
+            ]
+        },
+        {
+            "id": "a15",
+            "name": "Actor 15",
+            "born": 1987,
+            "roles": [
+                {
+                    "movie_id": "m9",
+                    "character": "Character 2"
+                },
+                {
+                    "movie_id": "m10",
+                    "character": "Character 2"
+                },
+                {
+                    "movie_id": "m1",
+                    "character": "Character 1"
+                }
+            ]
+        },
+        {
+            "id": "a16",
+            "name": "Actor 16",
+            "born": 1995,
+            "roles": [
+                {
+                    "movie_id": "m11",
+                    "character": "Character 1"
+                },
+                {
+                    "movie_id": "m4",
+                    "character": "Character 1"
+                },
+                {
+                    "movie_id": "m15",
+                    "character": "Character 1"
+                }
+            ]
+        },
+        {
+            "id": "a17",
+            "name": "Actor 17",
+            "born": 1971,
+            "roles": [
+                {
+                    "movie_id": "m2",
+                    "character": "Character 5"
+                },
+                {
+                    "movie_id": "m4",
+                    "character": "Character 3"
+                },
+                {
+                    "movie_id": "m11",
+                    "character": "Character 4"
+                }
+            ]
+        },
+        {
+            "id": "a18",
+            "name": "Actor 18",
+            "born": 1963,
+            "roles": [
+                {
+                    "movie_id": "m9",
+                    "character": "Character 2"
+                },
+                {
+                    "movie_id": "m12",
+                    "character": "Character 5"
+                },
+                {
+                    "movie_id": "m10",
+                    "character": "Character 4"
+                }
+            ]
+        },
+        {
+            "id": "a19",
+            "name": "Actor 19",
+            "born": 1965,
+            "roles": [
+                {
+                    "movie_id": "m13",
+                    "character": "Character 4"
+                },
+                {
+                    "movie_id": "m13",
+                    "character": "Character 4"
+                },
+                {
+                    "movie_id": "m4",
+                    "character": "Character 1"
+                }
+            ]
+        },
+        {
+            "id": "a20",
+            "name": "Actor 20",
+            "born": 1956,
+            "roles": [
+                {
+                    "movie_id": "m11",
+                    "character": "Character 4"
+                },
+                {
+                    "movie_id": "m6",
+                    "character": "Character 4"
+                },
+                {
+                    "movie_id": "m7",
+                    "character": "Character 4"
+                }
+            ]
+        },
+        {
+            "id": "a21",
+            "name": "Actor 21",
+            "born": 1996,
+            "roles": [
+                {
+                    "movie_id": "m1",
+                    "character": "Character 1"
+                },
+                {
+                    "movie_id": "m1",
+                    "character": "Character 4"
+                },
+                {
+                    "movie_id": "m12",
+                    "character": "Character 3"
+                }
+            ]
+        },
+        {
+            "id": "a22",
+            "name": "Actor 22",
+            "born": 1956,
+            "roles": [
+                {
+                    "movie_id": "m4",
+                    "character": "Character 2"
+                },
+                {
+                    "movie_id": "m4",
+                    "character": "Character 5"
+                },
+                {
+                    "movie_id": "m8",
+                    "character": "Character 2"
+                }
+            ]
+        },
+        {
+            "id": "a23",
+            "name": "Actor 23",
+            "born": 1977,
+            "roles": [
+                {
+                    "movie_id": "m3",
+                    "character": "Character 3"
+                },
+                {
+                    "movie_id": "m8",
+                    "character": "Character 2"
+                },
+                {
+                    "movie_id": "m14",
+                    "character": "Character 1"
+                }
+            ]
+        },
+        {
+            "id": "a24",
+            "name": "Actor 24",
+            "born": 1978,
+            "roles": [
+                {
+                    "movie_id": "m13",
+                    "character": "Character 5"
+                },
+                {
+                    "movie_id": "m2",
+                    "character": "Character 1"
+                },
+                {
+                    "movie_id": "m11",
+                    "character": "Character 5"
+                }
+            ]
+        },
+        {
+            "id": "a25",
+            "name": "Actor 25",
+            "born": 1950,
+            "roles": [
+                {
+                    "movie_id": "m2",
+                    "character": "Character 2"
+                },
+                {
+                    "movie_id": "m3",
+                    "character": "Character 4"
+                },
+                {
+                    "movie_id": "m8",
+                    "character": "Character 4"
+                }
+            ]
+        }
+    ],
+    "directors": [
+        {
+            "id": "d1",
+            "name": "Director 1",
+            "born": 1953,
+            "movies": [
+                "m14",
+                "m7",
+                "m1"
+            ]
+        },
+        {
+            "id": "d2",
+            "name": "Director 2",
+            "born": 1950,
+            "movies": [
+                "m7",
+                "m1",
+                "m15"
+            ]
+        },
+        {
+            "id": "d3",
+            "name": "Director 3",
+            "born": 1956,
+            "movies": [
+                "m15",
+                "m13",
+                "m14"
+            ]
+        },
+        {
+            "id": "d4",
+            "name": "Director 4",
+            "born": 1969,
+            "movies": [
+                "m5",
+                "m7",
+                "m12"
+            ]
+        },
+        {
+            "id": "d5",
+            "name": "Director 5",
+            "born": 1975,
+            "movies": [
+                "m11",
+                "m12",
+                "m8"
+            ]
+        },
+        {
+            "id": "d6",
+            "name": "Director 6",
+            "born": 1949,
+            "movies": [
+                "m4",
+                "m5",
+                "m15"
+            ]
+        },
+        {
+            "id": "d7",
+            "name": "Director 7",
+            "born": 1943,
+            "movies": [
+                "m10",
+                "m12",
+                "m9"
+            ]
+        },
+        {
+            "id": "d8",
+            "name": "Director 8",
+            "born": 1943,
+            "movies": [
+                "m12",
+                "m6",
+                "m1"
+            ]
+        },
+        {
+            "id": "d9",
+            "name": "Director 9",
+            "born": 1943,
+            "movies": [
+                "m10",
+                "m8",
+                "m9"
+            ]
+        },
+        {
+            "id": "d10",
+            "name": "Director 10",
+            "born": 1973,
+            "movies": [
+                "m3",
+                "m1",
+                "m9"
+            ]
+        }
+    ]
+}

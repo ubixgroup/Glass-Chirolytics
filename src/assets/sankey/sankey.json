@@ -1,0 +1,105 @@
+{
+    "links": [
+      { "from": "Crude Oil", "to": "Refineries", "value": 12, "id": "C0-0" },
+      { "from": "Refineries", "to": "Gasoline", "value": 12, "id": "C0-1" },
+      { "from": "Gasoline", "to": "Transportation", "value": 12, "id": "C0-2" },
+  
+      { "from": "Crude Oil", "to": "Refineries", "value": 10, "id": "C1-0" },
+      { "from": "Refineries", "to": "Diesel", "value": 10, "id": "C1-1" },
+      { "from": "Diesel", "to": "Transportation", "value": 10, "id": "C1-2" },
+  
+      { "from": "Crude Oil", "to": "Refineries", "value": 9, "id": "C2-0" },
+      { "from": "Refineries", "to": "Jet Fuel", "value": 9, "id": "C2-1" },
+      { "from": "Jet Fuel", "to": "Aviation", "value": 9, "id": "C2-2" },
+  
+      { "from": "Natural Gas", "to": "Power Plants", "value": 15, "id": "N0-0" },
+      {
+        "from": "Power Plants",
+        "to": "Electric Grid",
+        "value": 15,
+        "id": "N0-1"
+      },
+      { "from": "Electric Grid", "to": "Residential", "value": 15, "id": "N0-2" },
+  
+      { "from": "Natural Gas", "to": "Power Plants", "value": 14, "id": "N1-0" },
+      {
+        "from": "Power Plants",
+        "to": "Electric Grid",
+        "value": 14,
+        "id": "N1-1"
+      },
+      { "from": "Electric Grid", "to": "Industrial", "value": 14, "id": "N1-2" },
+  
+      { "from": "Hydro", "to": "Electric Grid", "value": 8, "id": "H0-0" },
+      { "from": "Electric Grid", "to": "Residential", "value": 8, "id": "H0-1" },
+  
+      { "from": "Hydro", "to": "Electric Grid", "value": 7, "id": "H1-0" },
+      { "from": "Electric Grid", "to": "Industrial", "value": 7, "id": "H1-1" },
+  
+      { "from": "Nuclear", "to": "Electric Grid", "value": 11, "id": "U0-0" },
+      { "from": "Electric Grid", "to": "Residential", "value": 11, "id": "U0-1" },
+  
+      { "from": "Nuclear", "to": "Electric Grid", "value": 10, "id": "U1-0" },
+      { "from": "Electric Grid", "to": "Industrial", "value": 10, "id": "U1-1" },
+  
+      { "from": "Wind", "to": "Electric Grid", "value": 6, "id": "W0-0" },
+      { "from": "Electric Grid", "to": "Residential", "value": 6, "id": "W0-1" },
+  
+      { "from": "Solar", "to": "Electric Grid", "value": 9, "id": "S0-0" },
+      { "from": "Electric Grid", "to": "Residential", "value": 9, "id": "S0-1" },
+  
+      { "from": "Biomass", "to": "Power Plants", "value": 13, "id": "B0-0" },
+      {
+        "from": "Power Plants",
+        "to": "Electric Grid",
+        "value": 13,
+        "id": "B0-1"
+      },
+      { "from": "Electric Grid", "to": "Residential", "value": 13, "id": "B0-2" },
+  
+      { "from": "Coal", "to": "Power Plants", "value": 16, "id": "L0-0" },
+      {
+        "from": "Power Plants",
+        "to": "Electric Grid",
+        "value": 16,
+        "id": "L0-1"
+      },
+      { "from": "Electric Grid", "to": "Residential", "value": 16, "id": "L0-2" },
+  
+      { "from": "Coal", "to": "Power Plants", "value": 14, "id": "L1-0" },
+      {
+        "from": "Power Plants",
+        "to": "Electric Grid",
+        "value": 14,
+        "id": "L1-1"
+      },
+      { "from": "Electric Grid", "to": "Industrial", "value": 14, "id": "L1-2" },
+  
+      { "from": "Crude Oil", "to": "Refineries", "value": 10, "id": "C3-0" },
+      { "from": "Refineries", "to": "Heavy Oil", "value": 10, "id": "C3-1" },
+      { "from": "Heavy Oil", "to": "Industrial", "value": 10, "id": "C3-2" },
+  
+      { "from": "Natural Gas", "to": "Industrial", "value": 12, "id": "N2-0" },
+  
+      { "from": "Natural Gas", "to": "Power Plants", "value": 11, "id": "N3-0" },
+      {
+        "from": "Power Plants",
+        "to": "Electric Grid",
+        "value": 11,
+        "id": "N3-1"
+      },
+      { "from": "Electric Grid", "to": "Commercial", "value": 11, "id": "N3-2" },
+  
+      { "from": "Solar", "to": "Electric Grid", "value": 8, "id": "S1-0" },
+      { "from": "Electric Grid", "to": "Commercial", "value": 8, "id": "S1-1" },
+  
+      { "from": "Wind", "to": "Electric Grid", "value": 7, "id": "W1-0" },
+      { "from": "Electric Grid", "to": "Commercial", "value": 7, "id": "W1-1" },
+  
+      { "from": "Hydro", "to": "Electric Grid", "value": 9, "id": "H2-0" },
+      { "from": "Electric Grid", "to": "Commercial", "value": 9, "id": "H2-1" },
+  
+      { "from": "Nuclear", "to": "Electric Grid", "value": 10, "id": "U2-0" },
+      { "from": "Electric Grid", "to": "Commercial", "value": 10, "id": "U2-1" }
+    ]
+  }
