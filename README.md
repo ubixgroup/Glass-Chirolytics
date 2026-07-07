@@ -30,9 +30,21 @@ You can stop the server by pressing `Ctrl+C` in the terminal. The server will sh
 npm run dev
 ```
 
+
+
 You can stop the client dev server by pressing `q` in the terminal.
 
-> ⚠️ Once the application is running, you may need to grant webcam access under your browsers settings. Otherwise the webcam feed may be empty.
+> Once the application is running, you may need to grant webcam access under your browsers settings. Otherwise the webcam feed may be empty.
+
+### Creating a two-person experience
+
+Both participants need the WebSocket server and client dev server running on the host machine (see above). Each person opens the app in their browser using the host machine's **network IP address** (e.g. `https://172.x.x.x:5173`), not `localhost` or `127.0.0.1`. The network IP is printed when you run `./gencert.sh`.
+
+On each browser, expand the mini-panel in the bottom-right corner and confirm:
+
+- **websocket** shows **connected**
+
+If websocket stays disconnected, double-check that both people are using the same network IP URL and that the WebSocket server is running.
 
 ## WebSocket Connection
 
